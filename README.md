@@ -48,12 +48,12 @@ Data Structures & Algorithms • LeetCode • CodeChef • Codeforces
   </a>
 
   <!-- Fixed CodeChef Icon (stable + centered + consistent size) -->
-<a href="https://www.codechef.com/users/tarun_talan" target="blank">
+<a href="https://www.codechef.com/users/tarun_talan" target="_blank">
   <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
 </a>
 
 
-  <a href="https://codeforces.com/profile/tarun_talan" target="_blank">
+  <a href="https://codeforces.com/profile/TarunTalan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="30" />
   </a>
 
