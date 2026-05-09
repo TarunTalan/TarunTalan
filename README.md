@@ -47,14 +47,17 @@ Expense tracker for the Indian market with automatic bank SMS parsing across 15+
 
 ## 🛠️ Technical Skills
 
-**Android Development:**  
-Kotlin • Java • Jetpack Compose • XML • MVVM • Clean Architecture • Retrofit • Room • Hilt/Dagger • Coroutines • Flow • Material Design
+**Languages:**  
+Kotlin • Java • JavaScript • C • C++
 
-**Backend & Tools:**  
-Node.js • Spring Boot • PostgreSQL • Firebase • Android Studio • Git • Postman • SQLite
+**Android:**  
+Jetpack Compose • MVVM • Clean Architecture • Hilt DI • Room • WorkManager • Retrofit • Coroutines • StateFlow • FCM • Material Design
 
-**Competitive Programming:**  
-Data Structures & Algorithms • LeetCode • CodeChef • Codeforces
+**Backend & Database:**  
+Spring Boot • REST APIs • WebSocket • JWT • OAuth 2.0 • PostgreSQL • MySQL
+
+**DevOps & Tools:**  
+Android Studio • Firebase • Docker • Git • Postman • Gradle • CI/CD
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -74,7 +77,7 @@ Data Structures & Algorithms • LeetCode • CodeChef • Codeforces
     <td><a href="https://www.linkedin.com/in/tarun-talan-77360a37a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="28"/></a></td>
     <td><a href="https://twitter.com/taruntalan01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="28"/></a></td>
     <td><a href="https://www.leetcode.com/tarun_talan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" width="28"/></a></td>
-    <td><a href="https://codeforces.com/profile/TarunTalan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="28" width="28"/></a></td>
+    <td><a href="https://www.codechef.com/users/taruntalan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="28" width="28"/></a></td>
     <td><a href="https://www.codechef.com/users/tarun_talan" target="_blank"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="28" width="38"/></a></td>
   </tr>
 </table>
@@ -86,12 +89,12 @@ Data Structures & Algorithms • LeetCode • CodeChef • Codeforces
     <td><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a></td>
     <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
     <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
 
