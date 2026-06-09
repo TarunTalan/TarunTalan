@@ -25,7 +25,7 @@ With a strong interest in analytical problem-solving, I actively participate in 
 - ⚙️ **Core Focus:** Modular architecture, offline-first databases, real-time messaging, and secure CI/CD pipelines
 - 🧠 **Problem Solving:** Completed 300+ challenges on LeetCode & Codeforces
 
----
+<p align="center"><img src="Assets/divider.svg" width="100%" height="10" style="border: none; outline: none; display: block;" /></p>
 
 ## 📱 Featured Projects
 
@@ -67,7 +67,7 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
 * Glance home screen widgets for instant access.
 * Room database offline caching & WorkManager background sync.
 
----
+<p align="center"><img src="Assets/divider.svg" width="100%" height="10" style="border: none; outline: none; display: block;" /></p>
 
 ## 🛠️ Technical Skills
 
@@ -99,7 +99,7 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40" /></a>
 </p>
 
----
+<p align="center"><img src="Assets/divider.svg" width="100%" height="10" style="border: none; outline: none; display: block;" /></p>
 
 ## 🧩 Competitive Programming
 
@@ -113,7 +113,7 @@ Passionate about problem-solving and algorithmic complexity. You can find my pro
   <a href="https://www.codechef.com/users/tarun_talan" target="_blank"><img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" style="background-color: #0d1117; border-radius: 10px; padding: 5px; width: 30px; height: 30px; vertical-align: middle;" /></a>
 </p>
 
----
+<p align="center"><img src="Assets/divider.svg" width="100%" height="10" style="border: none; outline: none; display: block;" /></p>
 
 ## 📬 Connect with Me
 
@@ -131,7 +131,7 @@ Let's build something amazing together! Feel free to reach out:
   <a href="Assets/TARUN_RESUME_ANDROID.pdf" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" alt="Resume" style="background-color: #0d1117; border-radius: 10px; padding: 5px; width: 30px; height: 30px; vertical-align: middle;" /></a>
 </p>
 
----
+<p align="center"><img src="Assets/divider.svg" width="100%" height="10" style="border: none; outline: none; display: block;" /></p>
 
 ## 📊 GitHub Analytics
 
