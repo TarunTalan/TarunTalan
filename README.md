@@ -88,8 +88,7 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
   <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" /></a>&nbsp;
   <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" /></a>&nbsp;
   <a href="https://developer.android.com" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" style="background-color: #0d1117; border-radius: 10px; padding: 8px; width: 24px; height: 24px; vertical-align: middle;" /></a>&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" /></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" /></a>
 </p>
 
 ### 🗄️ Databases, Cloud & Tooling
@@ -98,6 +97,7 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
   <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" /></a>&nbsp;
   <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /></a>&nbsp;
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40" /></a>&nbsp;
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" /></a>&nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /></a>&nbsp;
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" /></a>&nbsp;
@@ -106,9 +106,6 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40" /></a>
 </p>
 
-### 📦 Architecture & Core Libraries
-- 🎯 **Flutter Stack:** BLoC · Riverpod · Provider · Dio · GoRouter · FCM · Material Design
-- 🤖 **Android Stack:** Jetpack Compose · MVVM · Clean Architecture · Hilt · Room · Retrofit · WorkManager · Coroutines & Flow
 
 ---
 
