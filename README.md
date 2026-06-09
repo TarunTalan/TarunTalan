@@ -41,7 +41,6 @@ Live on Play Store for 200+ students. Supports menu browsing, order customisatio
 * Real-time updates via WebSockets & FCM notifications.
 * 80%+ test coverage with unit & widget testing.
 
----
 
 ### 💸 TruXpense — AI Expense Tracker
 <a href="https://github.com/TarunTalan/TruXpense-app" target="_blank">
@@ -55,7 +54,6 @@ Expense tracker with automated bank SMS parsing across 15+ banks, custom categor
 * Fine-tuned BERT classification model (92% accuracy).
 * Secured with JWT + OAuth 2.0; improved API speeds by 35%.
 
----
 
 ### 🗓️ Presently — Attendance Tracker
 <a href="https://github.com/TarunTalan/Presently-app" target="_blank">
