@@ -42,32 +42,6 @@ Live on Play Store for 200+ students. Supports menu browsing, order customisatio
 * 80%+ test coverage with unit & widget testing.
 
 
-### 🏢 VEMS — Vehicle Entry Management System
-<a href="https://play.google.com/store/apps/details?id=com.sdcsi.vems" target="_blank">
-  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
-</a>
-<br><br>
-
-Flutter app used at AKGEC for handling student vehicle registration with OTP-based signup, document upload, and admin approval.
-
-* **Stack:** `Flutter` · `Dart`
-* Role-based access control (Student, Staff/Guard, Admin) & Scanner for entry/exit logging.
-* [Privacy Policy & Account Deletion Portal](https://vems-privacy-policy-indol.vercel.app/).
-
-
-### 💸 TruXpense — AI Expense Tracker
-<a href="https://github.com/TarunTalan/TruXpense-app" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
-</a>
-<br><br>
-
-Expense tracker with automated bank SMS parsing across 15+ banks, custom categories, and PDF/Excel export.
-
-* **Stack:** `Kotlin` · `Jetpack Compose` · `MVVM` · `Hilt` · `Room` · `Retrofit` · `Spring Boot` · `BERT`
-* Fine-tuned BERT classification model (92% accuracy).
-* Secured with JWT + OAuth 2.0; improved API speeds by 35%.
-
-
 ### 🗓️ Presently — Attendance Tracker
 <a href="https://github.com/TarunTalan/Presently-app" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
@@ -83,6 +57,32 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
 * **Stack:** `Kotlin` · `Compose` · `MVVM` · `Clean Arch` · `Hilt` · `Room` · `WorkManager` · `Firebase`
 * Glance home screen widgets for instant access.
 * Room database offline caching & WorkManager background sync.
+
+
+### 🏢 VEMS — Vehicle Entry Management System
+<a href="https://play.google.com/store/apps/details?id=com.sdcsi.vems" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
+</a>
+<br><br>
+
+Flutter app used at AKGEC for handling student vehicle registration with OTP-based signup, document upload, and admin approval.
+
+* **Stack:** `Flutter` · `Dart`
+* Role-based access control (Student, Staff/Guard, Admin) & Scanner for entry/exit logging.
+* Integrated OCR via Google ML Kit for automated document verification.
+
+
+### 💸 TruXpense — AI Expense Tracker
+<a href="https://github.com/TarunTalan/TruXpense-app" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
+</a>
+<br><br>
+
+Expense tracker with automated bank SMS parsing across 15+ banks, custom categories, and PDF/Excel export.
+
+* **Stack:** `Kotlin` · `Jetpack Compose` · `MVVM` · `Hilt` · `Room` · `Retrofit` · `Spring Boot` · `BERT`
+* Fine-tuned BERT classification model (92% accuracy).
+* Secured with JWT + OAuth 2.0; improved API speeds by 35%.
 
 <p align="center"><img src="Assets/divider.svg" width="100%" height="3" style="border: none; outline: none; display: block;" /></p>
 
