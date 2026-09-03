@@ -59,6 +59,10 @@ Expense tracker with automated bank SMS parsing across 15+ banks, custom categor
 <a href="https://github.com/TarunTalan/Presently-app" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
 </a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.sdcsi.presently" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
+</a>
 <br><br>
 
 College attendance manager featuring predictive analytics, timetable syncing, Glance widgets, and Material You dynamic theming.
@@ -66,6 +70,12 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
 * **Stack:** `Kotlin` · `Compose` · `MVVM` · `Clean Arch` · `Hilt` · `Room` · `WorkManager` · `Firebase`
 * Glance home screen widgets for instant access.
 * Room database offline caching & WorkManager background sync.
+
+### 🏢 VEMS
+<a href="https://play.google.com/store/apps/details?id=com.sdcsi.vems" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
+</a>
+<br><br>
 
 <p align="center"><img src="Assets/divider.svg" width="100%" height="3" style="border: none; outline: none; display: block;" /></p>
 
