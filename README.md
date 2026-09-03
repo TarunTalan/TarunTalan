@@ -43,10 +43,6 @@ Live on Play Store for 200+ students. Supports menu browsing, order customisatio
 
 
 ### 🗓️ Presently — Attendance Tracker
-<a href="https://github.com/TarunTalan/Presently-app" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
-</a>
-&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.sdcsi.presently" target="_blank">
   <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
 </a>
