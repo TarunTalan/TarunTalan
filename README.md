@@ -42,6 +42,19 @@ Live on Play Store for 200+ students. Supports menu browsing, order customisatio
 * 80%+ test coverage with unit & widget testing.
 
 
+### 🏢 VEMS — Vehicle Entry Management System
+<a href="https://play.google.com/store/apps/details?id=com.sdcsi.vems" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
+</a>
+<br><br>
+
+Flutter app used at AKGEC for handling student vehicle registration with OTP-based signup, document upload, and admin approval.
+
+* **Stack:** `Flutter` · `Dart`
+* Role-based access control (Student, Staff/Guard, Admin) & Scanner for entry/exit logging.
+* [Privacy Policy & Account Deletion Portal](https://vems-privacy-policy-indol.vercel.app/).
+
+
 ### 💸 TruXpense — AI Expense Tracker
 <a href="https://github.com/TarunTalan/TruXpense-app" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
@@ -71,12 +84,6 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
 * Glance home screen widgets for instant access.
 * Room database offline caching & WorkManager background sync.
 
-### 🏢 VEMS
-<a href="https://play.google.com/store/apps/details?id=com.sdcsi.vems" target="_blank">
-  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
-</a>
-<br><br>
-
 <p align="center"><img src="Assets/divider.svg" width="100%" height="3" style="border: none; outline: none; display: block;" /></p>
 
 ## 🛠️ Technical Skills
@@ -87,8 +94,6 @@ College attendance manager featuring predictive analytics, timetable syncing, Gl
   <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" /></a>&nbsp;
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" /></a>&nbsp;
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /></a>&nbsp;
-  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" /></a>&nbsp;
   <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" /></a>&nbsp;
   <a href="https://developer.android.com" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" style="background-color: #0d1117; border-radius: 10px; padding: 8px; width: 24px; height: 24px; vertical-align: middle;" /></a>&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" /></a>
