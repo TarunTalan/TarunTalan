@@ -115,6 +115,8 @@ Live on Google Play Store for 200+ students. Supports real-time menu browsing, o
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunTalan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tarun's GitHub Stats" height="165" />
+  &nbsp;
   <img src="https://streak-stats.demolab.com?user=TarunTalan&theme=tokyonight&hide_border=true" alt="Tarun's GitHub Streak" height="165" />
 </p>
 
