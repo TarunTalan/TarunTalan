@@ -27,32 +27,36 @@ I am a **Mobile Application Developer** specializing in building scalable, produ
 
 ## 📱 Featured Projects
 
-### 🌟 VitalUp — AI Health & Fitness Ecosystem
-<a href="https://github.com/TarunTalan/vital_up" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
-</a>
-<br><br>
-
-Full-featured wellness ecosystem combining daily biometric tracking, an automated smart diet planner, and an AI health coach.
-
-* **Stack:** `Flutter` · `Dart` · `Clean Architecture` · `BLoC` · `Isar DB` · `Supabase` · `Gemini Vision` · `Android Widgets`
-* **Offline-First Sync:** Ultra-fast on-device caching with Isar, seamlessly reconciled with Supabase PostgreSQL (RLS).
-* **Dual-Model AI Vision:** Instant meal scan & USDA macro analysis with zero-downtime Gemini Flash to Groq Llama-4 failover.
-* **Native Integration:** Interactive Android home screen widgets (`home_widget`), TTS voice coaching, and BLE heart rate monitor pairing.
-
----
-
 ### 🗓️ Presently — Attendance Tracker
 <a href="https://play.google.com/store/apps/details?id=com.sdcsi.presently" target="_blank">
   <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
 </a>
 <br><br>
 
-College attendance manager featuring predictive analytics, timetable syncing, and Material You dynamic theming.
+Live on Google Play Store with 2.5k+ installs and 2k+ daily active users. College attendance manager featuring predictive analytics, timetable syncing, and Material You dynamic theming.
 
 * **Stack:** `Kotlin` · `Jetpack Compose` · `Clean Architecture` · `Hilt` · `Room` · `WorkManager` · `Firebase`
 * Glance home screen widgets for 1-tap attendance marking.
 * Room database offline caching paired with WorkManager background synchronization.
+
+---
+
+### 🌟 VitalUp — AI Health & Fitness Ecosystem
+<a href="https://play.google.com/store/apps/details?id=com.vitalup.app" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" height="22"/>
+</a>
+&nbsp;
+<a href="https://github.com/TarunTalan/vital_up" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
+</a>
+<br><br>
+
+Live on Google Play Store. Full-featured wellness ecosystem combining daily biometric tracking, an automated smart diet planner, and an AI health coach.
+
+* **Stack:** `Flutter` · `Dart` · `Clean Architecture` · `BLoC` · `Isar DB` · `Supabase` · `Gemini Vision` · `Android Widgets`
+* **Offline-First Sync:** Ultra-fast on-device caching with Isar, seamlessly reconciled with Supabase PostgreSQL (RLS).
+* **Dual-Model AI Vision:** Instant meal scan & USDA macro analysis with zero-downtime Gemini Flash to Groq Llama-4 failover.
+* **Native Integration:** Interactive Android home screen widgets (`home_widget`), TTS voice coaching, and BLE heart rate monitor pairing.
 
 ---
 
